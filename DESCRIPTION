@@ -1,0 +1,10 @@
+Package: seleniumJars
+Type: Package
+Title: JAR dependencies for the selenium package
+Version: 0.1
+Date: 2013-05-27
+Author: Lluis Ramon
+Maintainer: Lluis Ramon <lluisramon@somewhere.net>
+Description: This package provides external JAR dependencies for the selenium package. These jar files are needed for developing the selenium package using the rJava package, a low-level R to Java interface.
+License: GPL-3
+Depends: rJava
