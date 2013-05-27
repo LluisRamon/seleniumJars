@@ -13,6 +13,6 @@ install_github('seleniumJars', 'LluisRamon')
 
 ## Selenium
 
-Selenium is a portable software testing framework for web applications. Some members from the [Barcelona R user group] (Aleix Ruiz de Villa, Andreu Vall and Lluis Ramon) are planning to develop the selenium package for the R programming language. Our aim is to use it for web scrapping directly from R. 
+Selenium is a portable software testing framework for web applications. Some members from the [Barcelona R user group], (Aleix Ruiz de Villa, Andreu Vall and Lluis Ramon) are planning to develop the selenium package for the R programming language. Our aim is to use it for web scrapping directly from R. 
 
 [Barcelona R user group]: http://rugbcn.wordpress.com/
