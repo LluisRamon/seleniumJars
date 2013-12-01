@@ -6,7 +6,7 @@ Date: 2013-11-26
 Authors@R: c(person("Lluis", "Ramon", role = c("aut", "cre"),
                     email = "lluisramon.tgn@gmail.com"),
              person("SeleniumHQ", role = c("ctb", "cph"),
-                    "(Selenium Java library")))
+                    "(Selenium Java library)"))
 Maintainer: Lluis Ramon <lluisramon.tgn@gmail.com>
 Description: This package provides external Selenium JAR dependencies for the relenium package. 
 License: GPL-3
